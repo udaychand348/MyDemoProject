@@ -6,10 +6,10 @@ Frontend  --->
                 // Dependenices like axios, fetch,
 
 Backend  --->
-                SpringBoot, Java, Microservices, SpringSecurity, Jwt, Apache Kakfa
-                JUnit,
+                SpringBoot, Java, Microservices, SpringSecurity, Jwt, Apache Kakfa,
+                JUnit,PostMan
 
 
-Database --->  MySQL
+Database --->  PostgreSQL
 
 Reports ---> PowerBI 
