@@ -7,7 +7,7 @@ Frontend  --->
 
 Backend  --->
                 SpringBoot , Java, Microservices, SpringSecurity, Jwt, Apache Kakfa,
-                JUnit,PostMan
+                JUnit,PostMan, git and GitHub 
                 // We don't do Testing and we will send it to Testing Team.
 
 Database --->  PostgreSQL
