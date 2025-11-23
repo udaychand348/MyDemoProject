@@ -6,9 +6,9 @@ Frontend  --->
                 // Dependenices like axios, fetch,
 
 Backend  --->
-                SpringBoot, Java, Microservices, SpringSecurity, Jwt, Apache Kakfa,
+                SpringBoot , Java, Microservices, SpringSecurity, Jwt, Apache Kakfa,
                 JUnit,PostMan
-
+                // We don't do Testing and we will send it to Testing Team.
 
 Database --->  PostgreSQL
 
