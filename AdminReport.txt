@@ -1,0 +1,15 @@
+The Name of this Application is 'Expense Tracker App' .
+This is a web app and we are going to use different technologies to built it.
+
+Frontend  --->
+                Html, Tailwind CSS, Javascript, ReactJs, ChartJs, 
+                // Dependenices like axios, fetch,
+
+Backend  --->
+                SpringBoot, Java, Microservices, SpringSecurity, Jwt, Apache Kakfa
+                JUnit,
+
+
+Database --->  MySQL
+
+Reports ---> PowerBI 
